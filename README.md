@@ -1,5 +1,3 @@
-📄 **README.md** 작성
-
 ```markdown
 # Dodge Poop Game (Electron + React)
 > A simple reaction-based dodging game built with React and Electron.
@@ -33,7 +31,7 @@ npm install
 npm run build
 npm run electron
 ```
-Electron 창에서 React 앱이 실행됩니다!
+Electron 창에서 React 앱이 실행됩니다!<br/>
 실행이 무사히 된다면  명령 프롬포트 창에서 `ctrl + c 로` 게임을 종료합니다.
 
 ---
